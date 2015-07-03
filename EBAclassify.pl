@@ -9,7 +9,7 @@
 
 #  Author: Jitendra Narayan < jnarayan81@gmail.com>
 #  Copyright (c) 2014 by Jitendra. All rights reserved.
-#  You may distribute this module under the same terms as perl itself
+#  You may distribute this script under the same terms as perl itself
 #
 
 use strict;
